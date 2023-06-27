@@ -1,6 +1,6 @@
 {
-    "name": "felixdorn/:name",
-    "description": ":description",
+    "name": "felixdorn/user-initials",
+    "description": "A small package to get the initials from a name",
     "license": "MIT",
     "authors": [
         {
@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Felix\\:namespace\\": "src/"
+            "Felix\\UserInitials\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Felix\\:namespace\\Tests\\": "tests/"
+            "Felix\\UserInitials\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev",
