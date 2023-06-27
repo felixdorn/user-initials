@@ -14,7 +14,7 @@ use a svg of a person's silhouette instead, for example.
 
 Nevertheless, this package tries to account for all the edge cases and weird names, though it's a work in progress.
 
-**If the package provides a wrong initial for a name, please open an issue with the lang, what you input, get and would
+**If the package returns the wrong initials for a name, please open an issue with the lang, what you input, get and would
 expect.**
 
 ## Installation
